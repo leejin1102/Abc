@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun resetMessage() {
-        testViewMessage.setText(getString(R.string.))
+        textViewMessage.setText(getString(R.string.reset_message))
     }
 
     private fun showMessage() {

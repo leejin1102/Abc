@@ -2,5 +2,5 @@
     <string name="app_name">Abc</string>
     <string name="dont_click_me">Dont Click Me!</string>
     <string name="warning_message">Warning !!! Button Clicked</string>
-    <string name
+    <string name="reset_message">Hello World!</string>
 </resources>
